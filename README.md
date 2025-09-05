@@ -18,10 +18,10 @@ This repository is intended for learning, experimenting, and eventually expandin
 
 Planned features for upcoming versions include:
 
-- A basic game mechanic that allows players to drag and arrange letters to form words.
-- Real-time validation of user-created words against the loaded dictionary.
-- Scoring, time-based challenges, and other gameplay elements.
-- Improved UI/UX and mobile support.
+- [ ] A basic game mechanic that allows players to drag and arrange letters to form words.
+- [ ] Real-time validation of user-created words against the loaded dictionary.
+- [ ] Scoring, time-based challenges, and other gameplay elements.
+- [ ] Improved UI/UX and mobile support.
 
 ---
 

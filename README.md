@@ -1,3 +1,10 @@
+![Status](https://img.shields.io/badge/status-under--development-yellow)
+![Made with Construct 3](https://img.shields.io/badge/built%20with-Construct%203-blue?logo=construct3)
+![License](https://img.shields.io/badge/license-TBD-lightgrey)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+[![Play in Browser](https://img.shields.io/badge/Play--Now-Browser-green?logo=google-chrome&logoColor=white)](https://<your-username>.github.io/WordGame/)
+![GitHub last commit](https://img.shields.io/github/last-commit/hielo777/WordGame)
+
 # WordGame 🎮🧠
 
 **WordGame** is a simple project built using [Construct 3](https://www.construct.net/) that serves as the foundation for a word-based puzzle game. It currently demonstrates how to efficiently load and parse a large English word list (over 200,000 words) from a text file.
@@ -6,11 +13,22 @@ This repository is intended for learning, experimenting, and eventually expandin
 
 ---
 
+## 📥 How to Use / Run
+
+1. Open the project with **Construct 3** (https://editor.construct.net/).
+2. Run the layout or preview the project.
+3. The game will load the word list automatically and store it for future use in gameplay.
+
+> Make sure you have access to the internet or a licensed version of Construct 3 if using features that require it.
+
+---
+
 ## 📦 Features
 
-- Loads a large, ordered list of English words (200,000+ entries).
-- Lightweight and minimal use of Construct 3 events.
-- Designed to be modular and easy to expand into a full game.
+- [x] Loads a large, ordered list of English words (200,000+ entries).
+- [x] Lightweight and minimal use of Construct 3 events.
+- [x] Designed to be modular and easy to expand into a full game.
+- [x] Exported HTML files that can be used to test the game when deployed in a server.
 
 ---
 
@@ -22,6 +40,7 @@ Planned features for upcoming versions include:
 - [ ] Real-time validation of user-created words against the loaded dictionary.
 - [ ] Scoring, time-based challenges, and other gameplay elements.
 - [ ] Improved UI/UX and mobile support.
+- [ ] Add a *Publish* section detailing how to test a web version of the game.
 
 ---
 

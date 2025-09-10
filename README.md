@@ -5,6 +5,8 @@
 [![Play in Browser](https://img.shields.io/badge/Play--Now-Browser-green?logo=google-chrome&logoColor=white)](https://<your-username>.github.io/WordGame/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hielo777/WordGame)
 
+<a id="readme-top"></a>
+
 # WordGame 🎮🧠
 
 **WordGame** is a simple project built using [Construct 3](https://www.construct.net/) that serves as the foundation for a word-based puzzle game. It currently demonstrates how to efficiently load and parse a large English word list (over 200,000 words) from a text file.
@@ -13,26 +15,38 @@ This repository is intended for learning, experimenting, and eventually expandin
 
 ---
 
-## 📥 How to Use / Run
+<details>
+<summary> 📥 How to Use / Run </summary>
+
 
 1. Open the project with **Construct 3** (https://editor.construct.net/).
 2. Run the layout or preview the project.
 3. The game will load the word list automatically and store it for future use in gameplay.
 
 > Make sure you have access to the internet or a licensed version of Construct 3 if using features that require it.
+>> The basic versions of this projects should be under the free version restrictions, to allow anyone to check it out
+
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
+</details>
 
 ---
 
-## 📦 Features
+<details>
+<summary> 📦 Features </summary>
 
 - [x] Loads a large, ordered list of English words (200,000+ entries).
 - [x] Lightweight and minimal use of Construct 3 events.
 - [x] Designed to be modular and easy to expand into a full game.
 - [x] Exported HTML files that can be used to test the game when deployed in a server.
 
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
+</details>
+
 ---
 
-## 🚧 Future Plans
+<details>
+<summary> 🚧 Future Plans </summary>
+## 
 
 Planned features for upcoming versions include:
 
@@ -42,13 +56,23 @@ Planned features for upcoming versions include:
 - [ ] Improved UI/UX and mobile support.
 - [ ] Add a *Publish* section detailing how to test a web version of the game.
 
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
+</details>
+
 ---
 
-## 🛠️ Built With
+<details>
+<summary> 🛠️ Built With </summary>
 
 - [Construct 3](https://www.construct.net/) – Visual game engine used to create and manage the project.
 
+A million thanks to the [Construct community](https://www.construct.net/en/forum) and to the kind people of [Scirra](https://www.construct.net/en).
+
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
+</details>
+
 ---
 
 
 
+<p align="left">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>

@@ -38,6 +38,12 @@ This repository is intended for learning, experimenting, and eventually expandin
 - [x] Lightweight and minimal use of Construct 3 events.
 - [x] Designed to be modular and easy to expand into a full game.
 - [x] Exported HTML files that can be used to test the game when deployed in a server.
+- [x] Sample project that illustrates how to pick a random word from the dictionary.
+- [x] Sample project has basic game mechanics that:
+> - Loads a grid of random letters at the start of the layout
+> - Allow players to drag the random letters to alloted letters paces
+> - Allow players to form words that can be searched in the loaded dictionary
+> - Takes the word formed by the players and shows if the word is in the dictionary
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
@@ -51,6 +57,7 @@ This repository is intended for learning, experimenting, and eventually expandin
 Planned features for upcoming versions include:
 
 - [ ] A basic game mechanic that allows players to drag and arrange letters to form words.
+- [ ] Improve word search mechanic in the sample project.
 - [ ] Real-time validation of user-created words against the loaded dictionary.
 - [ ] Scoring, time-based challenges, and other gameplay elements.
 - [ ] Improved UI/UX and mobile support.

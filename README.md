@@ -13,6 +13,16 @@
 
 This repository is intended for learning, experimenting, and eventually expanding into a fully playable word game.
 
+<p align="center">
+  <a href="https://hielo777.github.io/WordGame/">
+    <img src="demoPic.png" alt="Thumbstick controls in Construct 3" />
+  </a>
+  <br />
+  <a href="https://hielo777.github.io/WordGame/">
+    <sub>Click here to try the demo >></sub>
+  </a>
+</p>
+
 ---
 
 <details>

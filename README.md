@@ -2,7 +2,7 @@
 ![Made with Construct 3](https://img.shields.io/badge/built%20with-Construct%203-blue?logo=construct3)
 ![License](https://img.shields.io/badge/license-TBD-lightgrey)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
-[![Play in Browser](https://img.shields.io/badge/Play--Now-Browser-green?logo=google-chrome&logoColor=white)](https://<your-username>.github.io/WordGame/)
+[![Play in Browser](https://img.shields.io/badge/Play--Now-Browser-green?logo=google-chrome&logoColor=white)](https://hielo777.github.io/WordGame/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hielo777/WordGame)
 
 <a id="readme-top"></a>
